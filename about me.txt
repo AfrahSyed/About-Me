@@ -1,2 +1,5 @@
 About Me
 I am Afrah Syed, a Computer Science student at FAST-NUCES, Islamabad. I have experience in front-end development and knowledge of Java, C, C++, Python, as well as database management and design. Beyond my studies, I am passionate about technology, AI, and software design. I enjoy working on innovative projects, solving complex problems, and staying updated with the latest advancements in the tech industry.
+Education
+Bachelor of Science in Computer Science
+FAST-NUCES, Islamabad
